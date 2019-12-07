@@ -1,0 +1,7 @@
+.username-card{
+    width: 40%;
+    border : 1px solid #eee;
+    box-shadow: 2px 2px 5px #ccc;
+    padding : 16px;
+    margin: 20px auto;
+}
